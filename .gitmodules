@@ -1,0 +1,3 @@
+[submodule "citation_scripts"]
+	path = citation_scripts
+	url = git@github.com:ploslabs/citation_scripts.git
