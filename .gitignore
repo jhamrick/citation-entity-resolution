@@ -52,3 +52,8 @@ docs/_build/
 
 # PyBuilder
 target/
+citation_data
+*.h5
+*.json
+.ipynb_checkpoints
+similarities/
